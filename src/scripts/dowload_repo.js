@@ -74,3 +74,5 @@ function downloadRepo({
 }
 
 module.exports.downloadRepo = downloadRepo
+module.exports.TEMP_DIR = TEMP_DIR
+module.exports.REPO_DEST = REPO_DEST

@@ -8,7 +8,6 @@
   },
   "scripts": {
     "build": "node src/scripts/build.js",
-    "build:examples": "node src/scripts/build_examples.js --name harry",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
